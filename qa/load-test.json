@@ -1,0 +1,10 @@
+{
+  "ws_connections": 100,
+  "all_100_received": true,
+  "ws_connect_batch_seconds": 0.159,
+  "ws_update_max_seconds": 0.057,
+  "ws_update_p95_seconds": 0.057,
+  "dashboard_requests": 100,
+  "dashboard_p95_seconds": 0.17,
+  "note": "Single-host loopback simulation, not 100 mobile devices or production SLA"
+}
